@@ -20,4 +20,5 @@ public class Contact<T, U> {
     public String toString() {
         return name + ": " + phone;
     }
+
 }
